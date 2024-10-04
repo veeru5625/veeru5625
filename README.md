@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Veerendra</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
-- 🔭 I’m currently working in **Reliance Jio**
+- 🔭 I’m currently working in **Tavant/cibil**
 
 - 🌱 I’m currently learning **Generative AI**
 
